@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="./ajax-loader.gif" alt="Loading" style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;"><img src="./ajax-loader.gif" alt="Loading" ></div>
