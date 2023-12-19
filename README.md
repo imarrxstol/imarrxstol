@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](Breadcrumbs/testrepo/slick/ajax-loader.gif)
+![](./ajax-loader.gif)
